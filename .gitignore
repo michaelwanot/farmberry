@@ -1,0 +1,6 @@
+/env
+db.sqlite3
+/.temp
+.python-version
+.env
+*.pyc
